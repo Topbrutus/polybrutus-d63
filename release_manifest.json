@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-21",
+  "github": {
+    "main_scientific_ci": "https://github.com/Topbrutus/polybrutus-d63/actions/runs/44977434071",
+    "repo": "https://github.com/Topbrutus/polybrutus-d63",
+    "scientific_commit": "221bfb6b49fecc2dd589801df4a7a22d76a2642c",
+    "scientific_tag": "v0.1.0",
+    "tag_scientific_ci": "https://github.com/Topbrutus/polybrutus-d63/actions/runs/44977478950"
+  },
+  "material_ai_assistance": "OpenAI ChatGPT (Astra) materially assisted independent exact rational verifiers, scientific manuscript and public release; AI is not a scientific author.",
+  "mathematics": {
+    "affine_rank": 63,
+    "centered_gram_rank": 63,
+    "certificate_sha256": "0dd40ddf147ac0d5ee624d6649d107680a3811af3e83b467fb959a3bd4f2d5b0",
+    "histogram_k_4d2": {
+      "10": 10,
+      "12": 6,
+      "13": 2,
+      "16": 2,
+      "4": 6,
+      "7": 2,
+      "8": 2247,
+      "9": 3
+    },
+    "ideal_eigenvalue_34_multiplicity": 57,
+    "ideal_eigenvalue_67_over_2_multiplicity": 4,
+    "new_squared_distances": 67,
+    "pairs": 2278,
+    "parent_labels_preserved": 2211,
+    "sum_squared_distances_R1": "18271/4",
+    "vertices": 68
+  },
+  "originals": {
+    "POLYBRUTUS_63D_NOTE.pdf": {
+      "md5": "86d83f9b625ed6269056301a76c1c8d7",
+      "sha256": "cb1ef2af0425b5af86fb3ebc2e90b674cfe86fb32f7144c3061d7cbd569a2f68",
+      "size": 79605
+    },
+    "POLYBRUTUS_D63_SOURCE_v0.1.0_GITHUB_TAG.zip": {
+      "md5": "9b53ad5e7d6bc1da257c26168dc357a1",
+      "sha256": "536903fa7e706e8ba82247982c24d97926c20d2989134ee588c12769d41b4e36",
+      "size": 4173836
+    },
+    "certificate_d63.json": {
+      "md5": "b7fb8422448dfeb9a002613b01044bfd",
+      "sha256": "0dd40ddf147ac0d5ee624d6649d107680a3811af3e83b467fb959a3bd4f2d5b0",
+      "size": 172431
+    }
+  },
+  "parent": {
+    "doi": "10.5281/zenodo.24432169",
+    "historic_note": "Original D47 certificate inaccurate textual D46 grandparent commit, original archive bytes unchanged",
+    "original_certificate_sha256": "8ddea9ddbc5136d81890f76b2cfa8378eb480b13f54650908f8b40f7bcb36d2e",
+    "original_full_source_zip_sha256": "6d9c82a9fe67c194906f111cae8346247f0995427b8ccf010860b792c0a50b09",
+    "repo": "Topbrutus/polybrutus-d62",
+    "scientific_commit": "8263a9583993b9d3d8122f4c68a930e5faf23161",
+    "tag": "v0.1.0"
+  },
+  "schema": "POLYBRUTUS-D63-RELEASE-MANIFEST-v1",
+  "scientific_author": "Gabriel St-Pierre, independent researcher",
+  "scientific_scope": "Exact synthetic Euclidean metric and freely specified dimensionless ideal graph only, no physical extra dimensions, observed hertz, particles, new universal theorem or independent peer review",
+  "status": "PUBLISHED_VERIFIED",
+  "zenodo": {
+    "doi": "10.5281/zenodo.24432380",
+    "keywords": [
+      "Polybrutus",
+      "affine Euclidean dimension sixty-three",
+      "exact labelled squared-distance metric",
+      "centered Gram rank",
+      "orthogonal conservative completion",
+      "weighted graph Laplacian",
+      "fifty-sevenfold ideal eigenvalue",
+      "independent rational verification",
+      "mathematical preprint"
+    ],
+    "record": "https://zenodo.org/records/24432380",
+    "references": [
+      "St-Pierre, Gabriel (2026). Polybrutus 62D: Exact 67-Point Euclidean Metric and Fifty-Sixfold Ideal Graph Mode. Zenodo. DOI: 10.5281/zenodo.24432169. https://doi.org/10.5281/zenodo.24432169",
+      "St-Pierre, Gabriel (2026). Polybrutus 7D: An Exact Twelve-Point Orthogonal Completion, the 12-35-37 Identity, and an Oscillator Model. Zenodo. DOI: 10.5281/zenodo.24407952. https://doi.org/10.5281/zenodo.24407952"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.24432169",
+        "relation": "isDerivedFrom",
+        "resource_type": "publication-preprint",
+        "scheme": "doi"
+      }
+    ],
+    "verification": "Two public Zenodo published-record API reads verify 3 original names, byte sizes and MD5 against SHA256-verified locals"
+  }
+}
